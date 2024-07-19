@@ -1,0 +1,25 @@
+img {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+}
+.last {
+    cursor: pointer;
+    padding-right: 25px;
+}
+.todoitems-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 0px;
+}
+.todoitems-container {
+    display: flex;
+}
+.todoitems-text {
+    padding-left: 16px;
+    color: #404040;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+}
